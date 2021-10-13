@@ -1,0 +1,26 @@
+body{
+    background-color: #CCCCCC;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+a {
+    display: block;
+    margin: 10px;
+}
+
+#versa {
+    position:fixed;
+    left: 50%;
+    height:60%;
+    width:40%;
+}
+
+th, td {
+    position:static;
+    left: 1550px;
+    text-align: center;
+    font-size: 300%;
+}

@@ -1,0 +1,23 @@
+body {
+    background-color: #CCCC99;
+}
+
+h1{
+    font-style: italic;
+}
+
+h1:hover{
+    text-decoration:underline;
+    color: #666666;
+}
+
+a {
+    border: 1px solid;
+    display: block ;
+    margin: 10px;
+}
+
+a:hover {
+    color: #666699;
+    font-weight: bolder;
+}

@@ -1,0 +1,26 @@
+body{
+    background-color: #CCCCCC;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+a {
+    display: block;
+    margin: 10px;
+}
+
+#celta {
+    position:fixed;
+    left: 70%;
+    height:50%;
+    width:30%;
+}
+
+th, td {
+    position:static;
+    left: 1550px;
+    text-align: center;
+    font-size: 300%;
+}

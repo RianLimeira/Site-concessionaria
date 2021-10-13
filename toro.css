@@ -1,0 +1,29 @@
+body {
+background-color: #CCCCCC;
+}
+
+a {
+    display: block ;
+    margin: 10px;
+}
+
+h1{
+    font-weight: bold;
+}
+
+#toro {
+    position:fixed;
+    left: 50%;
+    height:60%;
+    width:40%;
+}
+
+
+
+.info {
+    position:static;
+    left: 1550px;
+    text-align: center;
+    font-size: 300%;
+
+}
